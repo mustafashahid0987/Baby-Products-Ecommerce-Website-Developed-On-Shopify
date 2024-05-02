@@ -1,6 +1,7 @@
 # Baby-Products-Ecommerce-Website-Developed-On-Shopify
 
-![modern_ecomerce_website](https://github.com/mustafashahid0987/Baby-Products-Ecommerce-Website-Developed-On-Shopify/assets/59024888/8583832a-8892-4116-b0b1-138bbd742cea)
+https://github.com/mustafashahid0987/Baby-Products-Ecommerce-Website-Developed-On-Shopify/assets/59024888/ffe317ca-f22b-4453-902f-890586a58f61
+
 
 Project Goals:
 Create a captivating Shopify store specializing in baby products, offering a seamless shopping experience for parents.
